@@ -1,0 +1,36 @@
+{
+  "home": {
+    "variant": "a",
+    "images": {
+      "hero": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/f4b68f6e02c241dfbf9125c9ab214da4.jpg"
+    }
+  },
+  "blog": {
+    "variant": "c",
+    "images": {
+      "posts.0": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/4ef4ec89096941f38c308660c2a77949.jpg",
+      "posts.1": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/9a80af6299934ad8aaaadfb2b8752871.jpg",
+      "posts.2": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/7bc3d691131b4e19bdf1c97443f5b8e2.jpg",
+      "posts.3": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b3e9ef7a16c747eabc456084fb5f0f62.jpg",
+      "posts.4": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/6ab2b533af3e4bef8c7c359ba8f73375.jpg",
+      "posts.5": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/d35e1eecbe2441e4994a760845d5335a.jpg"
+    },
+    "slugs": [
+      "the-fed-s-next-move-why-markets-are-betting-on-a-september-c",
+      "index-funds-still-beat-most-active-managers-new-study-confir",
+      "banks-are-quietly-rebuilding-their-tech-stacks-around-ai-age",
+      "bitcoin-etfs-just-crossed-a-milestone-most-analysts-didn-t-e",
+      "why-grocery-prices-haven-t-fallen-even-as-inflation-cools",
+      "the-hidden-cost-of-buy-now-pay-later-is-showing-up-in-credit"
+    ]
+  },
+  "post": {
+    "variant": "c"
+  },
+  "about": {
+    "variant": "a",
+    "images": {
+      "hero": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b90d4bf7823941af842531b304bdf835.jpg"
+    }
+  }
+}

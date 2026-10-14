@@ -1,0 +1,546 @@
+{
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "about": "About",
+    "category": "Category",
+    "authors": "Authors"
+  },
+  "cta": {
+    "primary": "Subscribe"
+  },
+  "footer": {
+    "tagline": "Clear-eyed insights on markets, money, and the future of finance",
+    "rights": "All rights reserved.",
+    "columns": {
+      "sections": "Sections",
+      "company": "Company"
+    },
+    "links": {
+      "markets": "Markets",
+      "personalFinance": "Personal Finance",
+      "fintech": "Fintech",
+      "crypto": "Crypto",
+      "economy": "Economy",
+      "about": "About",
+      "authors": "Authors",
+      "blog": "Blog"
+    }
+  },
+  "authorPage": {
+    "hero": {
+      "eyebrow": "Senior Markets Editor",
+      "name": "Elena Marsh",
+      "role": "Senior Markets Editor, The Ledger",
+      "bio": "Elena covers monetary policy, equity markets, and the macro forces shaping household finances. Before joining The Ledger, she spent nine years reporting on central banks and spent three years as a fixed-income analyst, work that still shapes how she reads a rate decision.",
+      "articleCount": "{count} published articles",
+      "twitterLabel": "Elena Marsh on Twitter",
+      "linkedinLabel": "Elena Marsh on LinkedIn",
+      "emailLabel": "Email Elena Marsh"
+    },
+    "articles": {
+      "title": "Articles by Elena Marsh",
+      "subtitle": "Reporting and analysis on markets, policy, and the economy, in plain English.",
+      "sortLabel": "Sort by",
+      "sortNewest": "Newest first",
+      "sortOldest": "Oldest first",
+      "sortAZ": "Title A-Z"
+    },
+    "newsletter": {
+      "eyebrow": "Stay informed",
+      "title": "Get Elena's analysis in your inbox",
+      "subtitle": "A concise weekly note on markets and monetary policy, written for readers who want substance over noise.",
+      "nameLabel": "Your name",
+      "emailLabel": "Email address",
+      "submitLabel": "Subscribe",
+      "successMessage": "You're subscribed. Check your inbox for a confirmation email.",
+      "privacyNote": "No spam. Unsubscribe anytime. One email per week."
+    }
+  },
+  "category": {
+    "eyebrow": "Browse by topic",
+    "tabsLabel": "Article categories",
+    "articleCount": "{count} articles in this category",
+    "byLabel": "By",
+    "readMore": "Read article",
+    "empty": "No articles published in this category yet. Check back soon.",
+    "paginationPrev": "Previous page",
+    "paginationNext": "Next page",
+    "paginationPageLabel": "Page {page} of {total}",
+    "list": [
+      {
+        "name": "Markets",
+        "description": "Equity, bond and commodity market moves, explained for investors who want context, not noise."
+      },
+      {
+        "name": "Personal Finance",
+        "description": "Practical guidance on saving, spending, borrowing and investing for your own financial life."
+      },
+      {
+        "name": "Fintech",
+        "description": "The technology, platforms and business models reshaping how money moves and who moves it."
+      },
+      {
+        "name": "Crypto",
+        "description": "Digital assets, blockchain infrastructure and the regulation shaping where they go next."
+      },
+      {
+        "name": "Economy",
+        "description": "Macro trends, central bank policy and the data releases that move every other market."
+      }
+    ],
+    "articles": [
+      {
+        "title": "The Fed's Next Move: Reading Between the Lines",
+        "excerpt": "Policymakers are sending mixed signals on rate cuts. Here is what the latest minutes actually tell investors about the path ahead.",
+        "author": "Elena Marsh",
+        "authorRole": "Markets Editor",
+        "date": "May 2, 2024",
+        "category": "Markets",
+        "readTime": "6 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/313ce84372a74c2789f85c2ea4015af1.jpg"
+      },
+      {
+        "title": "Why Bond Yields Are Quietly Reshaping Portfolios",
+        "excerpt": "As yields hold near multi-year highs, fixed income is pulling capital away from equities in ways that deserve a closer look.",
+        "author": "Daniel Osei",
+        "authorRole": "Senior Markets Writer",
+        "date": "April 26, 2024",
+        "category": "Markets",
+        "readTime": "7 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/293b2e449f0e4f64920239e2b25ad341.jpg"
+      },
+      {
+        "title": "Building an Emergency Fund That Actually Works",
+        "excerpt": "A step-by-step framework for sizing, automating and protecting your cash reserve so it is there when you need it.",
+        "author": "Priya Chandran",
+        "authorRole": "Personal Finance Columnist",
+        "date": "April 22, 2024",
+        "category": "Personal Finance",
+        "readTime": "5 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/a676ee83222247e0bc5a2a989deb4423.jpg"
+      },
+      {
+        "title": "The Real Cost of Carrying a Credit Card Balance",
+        "excerpt": "Minimum payments feel manageable until the math catches up. We break down what revolving debt truly costs over time.",
+        "author": "Priya Chandran",
+        "authorRole": "Personal Finance Columnist",
+        "date": "April 15, 2024",
+        "category": "Personal Finance",
+        "readTime": "4 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/e8d12245254344039e2924c5b5af5926.jpg"
+      },
+      {
+        "title": "How Embedded Finance Is Rewiring Retail Checkout",
+        "excerpt": "Buy-now-pay-later and in-app lending are becoming invisible infrastructure. Retailers that ignore it are already behind.",
+        "author": "Marcus Lindqvist",
+        "authorRole": "Fintech Correspondent",
+        "date": "April 10, 2024",
+        "category": "Fintech",
+        "readTime": "6 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/64cac83042bf4d44a6fd19dfbe157133.jpg"
+      },
+      {
+        "title": "Banking-as-a-Service: The Infrastructure Behind the Apps",
+        "excerpt": "Most consumer fintech apps don't hold a banking license. Here is who actually does the regulated work behind the scenes.",
+        "author": "Marcus Lindqvist",
+        "authorRole": "Fintech Correspondent",
+        "date": "April 3, 2024",
+        "category": "Fintech",
+        "readTime": "8 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/99c38df477af4cfcb91ab3cd140cc429.jpg"
+      },
+      {
+        "title": "Stablecoins Move From Niche to Necessary",
+        "excerpt": "Settlement volumes now rival major card networks. Regulators are finally catching up to an asset class that won't wait.",
+        "author": "Sofia Reyes",
+        "authorRole": "Crypto Markets Reporter",
+        "date": "March 28, 2024",
+        "category": "Crypto",
+        "readTime": "5 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/a21f6dc19f8347e98a79a2e150ababd9.jpg"
+      },
+      {
+        "title": "What Spot ETF Flows Tell Us About Institutional Appetite",
+        "excerpt": "Weekly inflow data is becoming one of the clearest signals of how traditional finance is actually positioning in digital assets.",
+        "author": "Sofia Reyes",
+        "authorRole": "Crypto Markets Reporter",
+        "date": "March 20, 2024",
+        "category": "Crypto",
+        "readTime": "6 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b85fc7687c594539a494bd8f44d49d87.jpg"
+      },
+      {
+        "title": "Inflation Cools, But Consumers Aren't Celebrating Yet",
+        "excerpt": "Headline numbers are easing, yet grocery bills and rent tell a stickier story. We unpack the gap between data and daily life.",
+        "author": "Elena Marsh",
+        "authorRole": "Markets Editor",
+        "date": "March 12, 2024",
+        "category": "Economy",
+        "readTime": "7 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/23fc1061d8d241cf94985f2614b2e64b.jpg"
+      }
+    ]
+  },
+  "article": {
+    "backLink": "Back to all stories",
+    "breadcrumbHome": "The Ledger",
+    "category": "Fintech",
+    "title": "Inside the Quiet Rewiring of Cross-Border Payments",
+    "deck": "A new generation of settlement rails is replacing decades-old correspondent banking, cutting what used to take days down to seconds. Here's what's actually changing, and who stands to benefit.",
+    "authorName": "Maya Ellison",
+    "authorRole": "Senior Fintech Correspondent",
+    "date": "March 18, 2024",
+    "readTime": "8 min read",
+    "lead": "For most of the last fifty years, moving money across a border meant routing it through a chain of correspondent banks, each taking a cut and a day or two, with little visibility into where a payment actually sat at any given moment. That model is finally being dismantled, not by a single breakthrough but by a slow accumulation of infrastructure most consumers will never see.",
+    "body1": "Real-time payment rails now link more than sixty countries, and a wave of licensed fintech intermediaries have built compliance and liquidity layers on top of them. The result is a settlement experience that increasingly resembles a domestic bank transfer: funds move in minutes, fees are quoted upfront, and both sender and recipient can track status end to end.",
+    "sectionOneHeading": "Why the old system held on for so long",
+    "body2": "Correspondent banking survived as long as it did because trust and liquidity are hard to replace at scale. Banks maintained nostro and vostro accounts with partners around the world specifically so they wouldn't need a faster system, the cost of holding that capital was simply treated as the price of doing business. What changed is that regulators began requiring more transparency on fees and timing, and that pressure made the inefficiencies impossible to ignore.",
+    "pullQuote": "The banks that win the next decade of cross-border payments won't be the ones with the biggest correspondent networks. They'll be the ones that rebuilt their rails before regulation forced the issue.",
+    "sectionTwoHeading": "Who actually benefits first",
+    "body3": "Small and mid-sized exporters are seeing the clearest gains. A manufacturer paying suppliers in three currencies used to absorb unpredictable float and opaque spreads; now that same business can quote a landed cost with confidence because settlement time and fees are both fixed in advance. Freelancers and gig platforms paying contractors internationally have seen similar improvements, often cutting payout time from a week to same day.",
+    "body4": "The harder case is remittances to markets with thin banking infrastructure, where the last mile, getting funds from a digital wallet into cash, remains slow and costly regardless of how fast the rail itself moves. Closing that gap is now the industry's primary focus, and it's where the next round of fintech investment is concentrated.",
+    "takeawaysHeading": "Key takeaways",
+    "takeaways": [
+      "Real-time settlement rails now connect more than sixty countries, replacing multi-day correspondent banking chains for a growing share of transactions.",
+      "Regulatory pressure for fee and timing transparency, not a single new technology, was the main force that broke open the old system.",
+      "Small exporters and gig-economy payouts are seeing the fastest, most measurable improvements in cost and settlement speed.",
+      "The last-mile problem in cash-based remittance markets remains the hardest piece to solve and the focus of current fintech investment."
+    ],
+    "aboutAuthorLabel": "About the author",
+    "authorBio": "Maya covers payments infrastructure, banking technology, and the regulatory shifts reshaping global finance. She previously reported on monetary policy for a decade before moving into fintech.",
+    "viewProfile": "View full profile",
+    "relatedHeading": "Related reading",
+    "relatedCta": "Browse all stories",
+    "related": [
+      {
+        "category": "Markets",
+        "title": "What Rate Cuts Actually Do to Your Portfolio",
+        "excerpt": "A plain-language look at how falling rates ripple through bonds, equities, and the funds most retail investors already hold.",
+        "readTime": "6 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/f4b68f6e02c241dfbf9125c9ab214da4.jpg",
+        "alt": "Financial analysts reviewing stock market data on multiple trading screens"
+      },
+      {
+        "category": "Crypto",
+        "title": "Stablecoins Are Becoming Payment Rails, Not Just Trading Tools",
+        "excerpt": "Settlement volume on dollar-pegged stablecoins has quietly overtaken several legacy wire networks. Here's why that matters.",
+        "readTime": "7 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/d28a9d622bc04690858af41144acfed9.jpg",
+        "alt": "Digital cryptocurrency coins displayed over a financial trading dashboard"
+      },
+      {
+        "category": "Personal Finance",
+        "title": "The Real Cost of Holding Cash in a High-Rate Environment",
+        "excerpt": "Idle cash isn't free. A look at what households are giving up by staying out of short-term instruments.",
+        "readTime": "5 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/4eb19c90a2054c4b9a020512abc1e086.jpg",
+        "alt": "Person reviewing personal finances with a laptop and calculator"
+      },
+      {
+        "category": "Economy",
+        "title": "Supply Chains Are Being Rebuilt Around Payment Speed",
+        "excerpt": "Faster settlement is changing how manufacturers choose suppliers and structure trade financing agreements.",
+        "readTime": "6 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/045a956cb1b74aabb4956f46a77418cd.jpg",
+        "alt": "Container ship being loaded at a busy shipping port"
+      }
+    ],
+    "newsletterTitle": "Get The Ledger in your inbox",
+    "newsletterSubtitle": "One concise briefing each week on markets, fintech, and the economic forces shaping both. No noise, no spam.",
+    "newsletterNameLabel": "Name",
+    "newsletterNamePlaceholder": "Jordan Price",
+    "newsletterEmailLabel": "Email address",
+    "newsletterEmailPlaceholder": "you@example.com",
+    "newsletterSubmit": "Subscribe",
+    "newsletterDisclaimer": "Free, weekly, unsubscribe anytime.",
+    "newsletterSuccessTitle": "You're subscribed",
+    "newsletterSuccessMessage": "Look out for your first briefing this Friday morning."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Our Lead Story Today",
+      "category": "Fintech",
+      "title": "Inside the Quiet Rewiring of Cross-Border Payments",
+      "subtitle": "A new generation of settlement rails is replacing decades-old correspondent banking, cutting what used to take days down to seconds. Here is what is actually changing, and who stands to benefit.",
+      "authorName": "Maya Ellison",
+      "authorRole": "Senior Fintech Correspondent",
+      "date": "March 18, 2024",
+      "readTime": "8 min read",
+      "cta": "Read the Full Story",
+      "secondaryCta": "Browse All Topics"
+    },
+    "categoryNav": {
+      "title": "Browse by beat"
+    },
+    "latest": {
+      "eyebrow": "Fresh Off the Desk",
+      "title": "This week's must-read stories",
+      "subtitle": "Hand-picked reporting and analysis from our newsroom, updated every weekday morning.",
+      "cta": "View All Articles"
+    },
+    "editorsPicks": {
+      "title": "Editor's Picks",
+      "subtitle": "Stories our editors think deserve a closer read.",
+      "items": [
+        {
+          "category": "Markets",
+          "title": "Why Bond Yields Are Quietly Reshaping Portfolios",
+          "excerpt": "As yields hold near multi-year highs, fixed income is pulling capital away from equities in ways that deserve a closer look.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/293b2e449f0e4f64920239e2b25ad341.jpg"
+        },
+        {
+          "category": "Crypto",
+          "title": "Stablecoins Move From Niche to Necessary",
+          "excerpt": "Settlement volumes now rival major card networks. Regulators are finally catching up to an asset class that will not wait.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/a21f6dc19f8347e98a79a2e150ababd9.jpg"
+        },
+        {
+          "category": "Fintech",
+          "title": "Banking-as-a-Service: The Infrastructure Behind the Apps",
+          "excerpt": "Most consumer fintech apps do not hold a banking license. Here is who actually does the regulated work behind the scenes.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/99c38df477af4cfcb91ab3cd140cc429.jpg"
+        }
+      ]
+    },
+    "mostRead": {
+      "title": "Most Read This Week",
+      "subtitle": "What readers cannot stop sharing.",
+      "items": [
+        {
+          "title": "The Fed's Next Move: Reading Between the Lines",
+          "category": "Markets",
+          "author": "Elena Marsh",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/313ce84372a74c2789f85c2ea4015af1.jpg"
+        },
+        {
+          "title": "Building an Emergency Fund That Actually Works",
+          "category": "Personal Finance",
+          "author": "Priya Chandran",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/a676ee83222247e0bc5a2a989deb4423.jpg"
+        },
+        {
+          "title": "How Embedded Finance Is Rewiring Retail Checkout",
+          "category": "Fintech",
+          "author": "Marcus Lindqvist",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/64cac83042bf4d44a6fd19dfbe157133.jpg"
+        },
+        {
+          "title": "What Spot ETF Flows Tell Us About Institutional Appetite",
+          "category": "Crypto",
+          "author": "Sofia Reyes",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b85fc7687c594539a494bd8f44d49d87.jpg"
+        },
+        {
+          "title": "Inflation Cools, But Consumers Are Not Celebrating Yet",
+          "category": "Economy",
+          "author": "Elena Marsh",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/23fc1061d8d241cf94985f2614b2e64b.jpg"
+        }
+      ]
+    },
+    "topics": {
+      "eyebrow": "Coverage Areas",
+      "title": "Explore The Ledger by topic",
+      "subtitle": "Five beats, one newsroom — follow the stories that matter most to your portfolio and your paycheck.",
+      "items": {
+        "0": {
+          "title": "Markets",
+          "description": "Daily moves, earnings reactions, and the macro forces driving equities, bonds, and commodities."
+        },
+        "1": {
+          "title": "Personal Finance",
+          "description": "Practical guidance on saving, investing, taxes, and building long-term wealth."
+        },
+        "2": {
+          "title": "Fintech",
+          "description": "The startups, platforms, and technologies reshaping how the world moves money."
+        },
+        "3": {
+          "title": "Crypto",
+          "description": "Clear-eyed reporting on digital assets, blockchain infrastructure, and regulation."
+        },
+        "4": {
+          "title": "Economy",
+          "description": "Inflation, employment, central bank policy, and the data that shapes the bigger picture."
+        }
+      }
+    },
+    "cta": {
+      "title": "Smarter money decisions start here",
+      "subtitle": "Join over 120,000 readers who get The Ledger's morning briefing — sharp analysis delivered straight to your inbox, every weekday.",
+      "button": "Subscribe Free"
+    }
+  },
+  "blog": {
+    "hero": {
+      "eyebrow": "Markets & Money",
+      "title": "The Ledger",
+      "subtitle": "Clear-eyed analysis on markets, personal finance, fintech, and the economy for readers who want substance over noise."
+    },
+    "posts": {
+      "0": {
+        "title": "The Fed's Next Move: Why Markets Are Betting on a September Cut",
+        "excerpt": "Bond traders have quietly repriced the odds of a rate cut. Here's what the data actually shows and why the consensus might be wrong.",
+        "category": "Markets",
+        "date": "March 3, 2026",
+        "author": "Elena Marsh",
+        "readTime": "7 min read",
+        "body": {
+          "0": "Futures markets are now pricing in an 82% probability of a quarter-point rate cut at the Federal Reserve's next meeting, up sharply from just 45% a month ago. The shift came after a softer-than-expected jobs report and a round of dovish commentary from regional Fed presidents.",
+          "1": "But a closer read of the underlying data complicates the simple narrative. Core services inflation, excluding housing, has actually ticked up over the past two months, driven largely by insurance costs and medical services pricing that tends to be sticky.",
+          "2": "Wall Street strategists remain split. Goldman Sachs economists argue the labor market cooling is now broad enough to justify easing, pointing to slowing wage growth and rising continuing claims. Others, including several voices inside the Fed itself, worry that cutting too early could reignite inflation expectations that took two years to tame.",
+          "3": "History offers mixed lessons here. In past cycles, premature easing has sometimes forced central banks into painful reversals. The 1970s stagflation era remains the cautionary tale most frequently invoked by inflation hawks on the committee.",
+          "4": "For investors, the practical takeaway is less about predicting the exact meeting date and more about positioning for a prolonged period of rate uncertainty. Duration risk in bond portfolios deserves fresh scrutiny regardless of which way the September decision breaks."
+        }
+      },
+      "1": {
+        "title": "Index Funds Still Beat Most Active Managers, New Study Confirms",
+        "excerpt": "A decade-long review of fund performance delivers a familiar but important verdict for everyday investors.",
+        "category": "Personal Finance",
+        "date": "March 1, 2026",
+        "author": "Daniel Osei",
+        "readTime": "5 min read",
+        "body": {
+          "0": "A new analysis covering more than 3,000 actively managed U.S. equity funds over the past ten years found that roughly 86% underperformed their benchmark index after fees. The figure is nearly identical to studies from a decade ago, suggesting the structural challenge facing active management hasn't eased despite advances in data and technology.",
+          "1": "The primary culprit remains cost. Actively managed funds charge, on average, nearly five times the expense ratio of comparable index funds. Over a 30-year investing horizon, that fee gap alone can erode a portfolio's final value by well over a quarter.",
+          "2": "Survivorship bias also distorts how good active management looks in hindsight. Many underperforming funds are quietly merged or closed, leaving only the stronger performers visible in historical databases, which flatters the category's apparent track record.",
+          "3": "None of this means active management is worthless everywhere. In less efficient corners of the market, such as small-cap international equities or distressed debt, skilled managers have shown more consistent ability to add value net of fees.",
+          "4": "For most retail investors building a retirement portfolio, though, the research reinforces a simple conclusion: a low-cost, broadly diversified index fund remains one of the most reliable tools available, not because it's exciting, but because it's hard to beat."
+        }
+      },
+      "2": {
+        "title": "Banks Are Quietly Rebuilding Their Tech Stacks Around AI Agents",
+        "excerpt": "From fraud detection to customer service, autonomous AI agents are moving from pilot projects into daily banking operations.",
+        "category": "Fintech",
+        "date": "February 27, 2026",
+        "author": "Priya Chandran",
+        "readTime": "6 min read",
+        "body": {
+          "0": "Over the past eighteen months, several major retail banks have shifted AI agents from experimental pilots to core infrastructure, according to interviews with technology executives across the industry. The agents now handle tasks ranging from flagging suspicious transactions in real time to resolving routine customer disputes without human intervention.",
+          "1": "The economics are a major driver. One regional bank reported cutting average call-center resolution time by 40% after deploying an AI agent trained specifically on its dispute-resolution workflows, freeing human staff to handle more complex escalations.",
+          "2": "Regulators are watching closely. The Consumer Financial Protection Bureau has signaled it will scrutinize how banks document and audit decisions made by autonomous systems, particularly where those decisions affect credit access or fraud determinations that customers have a right to contest.",
+          "3": "Smaller fintech challengers have also entered this space aggressively, building agent-based platforms they license to community banks and credit unions that lack the resources to build proprietary systems in-house.",
+          "4": "The risk, industry insiders caution, is moving too fast without adequate guardrails. A poorly tuned agent making fraud determinations at scale can cause real financial harm before anyone notices the pattern, making robust human oversight still essential even as automation expands."
+        }
+      },
+      "3": {
+        "title": "Bitcoin ETFs Just Crossed a Milestone Most Analysts Didn't Expect This Soon",
+        "excerpt": "Combined assets under management in spot Bitcoin ETFs have surpassed a key threshold, reshaping how institutions access crypto.",
+        "category": "Crypto",
+        "date": "February 24, 2026",
+        "author": "Marcus Webb",
+        "readTime": "5 min read",
+        "body": {
+          "0": "Spot Bitcoin ETFs listed in the United States have collectively surpassed $150 billion in assets under management, a figure most analysts projected wouldn't be reached until 2027 at the earliest. The pace of institutional adoption has outstripped even bullish forecasts made at the products' launch.",
+          "1": "Pension funds and endowments, historically cautious about direct crypto exposure, have been among the fastest-growing categories of buyers, often allocating through ETFs specifically because the structure avoids custody and compliance headaches associated with holding the asset directly.",
+          "2": "Trading volumes tell a similar story. Several of the largest Bitcoin ETFs now rank among the most actively traded funds on major exchanges on any given day, rivaling volumes seen in long-established equity index products.",
+          "3": "Not everyone views the milestone as unambiguously positive. Some market structure experts warn that concentrated ETF ownership could amplify volatility during sharp downturns, as redemption pressure forces fund managers to sell underlying Bitcoin into already stressed markets.",
+          "4": "Still, the broader trend seems clear: crypto exposure is being absorbed into mainstream portfolio construction far faster than skeptics anticipated, a shift with implications for everything from retirement planning to regulatory policy going forward."
+        }
+      },
+      "4": {
+        "title": "Why Grocery Prices Haven't Fallen Even as Inflation Cools",
+        "excerpt": "Headline inflation numbers look reassuring, but household budgets tell a more complicated story at the checkout line.",
+        "category": "Economy",
+        "date": "February 20, 2026",
+        "author": "Elena Marsh",
+        "readTime": "6 min read",
+        "body": {
+          "0": "Annual inflation has cooled to its lowest level in three years, yet grocery bills for the average household remain stubbornly elevated compared with pre-pandemic baselines. The disconnect has become a recurring theme in consumer sentiment surveys, where perceived cost of living often diverges sharply from official statistics.",
+          "1": "Part of the explanation lies in how inflation metrics work. A falling inflation rate means prices are rising more slowly, not that they are falling back to where they started. Grocery prices that jumped 25% during the inflationary surge have mostly stayed at that elevated plateau rather than reversing.",
+          "2": "Supply chain dynamics specific to food production add another layer. Egg and dairy prices in particular have been volatile due to recurring avian flu outbreaks that periodically squeeze supply, independent of broader monetary conditions.",
+          "3": "Retail consolidation may also play a role. Economists point to reduced competition in certain regional grocery markets as a factor that has allowed some price increases to stick even as input costs for retailers have eased.",
+          "4": "For household budgeting, the practical implication is that relief at the checkout counter is likely to be gradual rather than sudden, reinforcing why many consumers feel the economy is working against them even as macro indicators improve."
+        }
+      },
+      "5": {
+        "title": "The Hidden Cost of 'Buy Now, Pay Later' Is Showing Up in Credit Scores",
+        "excerpt": "As BNPL usage surges, new reporting rules are beginning to reveal how the habit affects borrowers' broader financial health.",
+        "category": "Personal Finance",
+        "date": "February 17, 2026",
+        "author": "Daniel Osei",
+        "readTime": "4 min read",
+        "body": {
+          "0": "Buy now, pay later services have grown from a checkout novelty into a mainstream credit product, with usage among adults under 40 now exceeding usage of traditional credit cards for discretionary purchases, according to recent consumer finance surveys.",
+          "1": "The appeal is straightforward: no interest if paid on time, instant approval, and a user experience built directly into the checkout flow of major retailers. But the lack of interest hasn't meant the lack of risk.",
+          "2": "New data from credit bureaus, which have only recently begun incorporating BNPL activity into standard credit files, shows a meaningful subset of users juggling four or more concurrent BNPL loans, a pattern associated with higher rates of missed payments across all their obligations.",
+          "3": "Consumer advocates argue the product's fragmented nature makes overextension easy. Because individual providers don't always see a borrower's obligations to competitors, approval decisions can miss red flags that would be obvious in a traditional lending relationship.",
+          "4": "Financial counselors now recommend treating BNPL commitments with the same budgeting discipline as any credit line, tracking total outstanding obligations across providers rather than evaluating each purchase in isolation."
+        }
+      }
+    },
+    "readMore": "Continue Reading"
+  },
+  "post": {
+    "back": "Back to all articles",
+    "by": "By",
+    "related": "Related reading",
+    "notFound": "We couldn't find this article. It may have been moved, retired, or the link may be incorrect."
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About The Ledger",
+      "title": "Clarity for a complex financial world",
+      "subtitle": "We translate markets, money, and fintech into insight you can actually use."
+    },
+    "story": {
+      "title": "Our story",
+      "paragraphs": {
+        "0": "The Ledger began as a weekend newsletter written by a small group of finance journalists and former analysts who were tired of choosing between dense research reports and clickbait headlines. We wanted a third option: rigorous, readable, and honest about what we don't know.",
+        "1": "Since then, The Ledger has grown into a daily publication covering markets, personal finance, fintech, crypto, and the broader economy. Our newsroom combines on-the-ground reporting with data-driven analysis, and every piece is reviewed for accuracy before it reaches your inbox.",
+        "2": "Today, hundreds of thousands of readers rely on us to make sense of earnings calls, interest rate decisions, and the next wave of financial technology, without the jargon or the noise."
+      }
+    },
+    "values": {
+      "eyebrow": "What guides us",
+      "title": "The principles behind every story",
+      "subtitle": "Editorial standards we hold ourselves to on every article we publish.",
+      "items": {
+        "0": {
+          "title": "Accuracy first",
+          "description": "Every figure, quote, and chart is fact-checked before publication, and corrected transparently if we get it wrong."
+        },
+        "1": {
+          "title": "Independence",
+          "description": "Our reporting is never influenced by advertisers, sponsors, or the companies we cover."
+        },
+        "2": {
+          "title": "Plain language",
+          "description": "We explain complex financial concepts the way we'd explain them to a smart friend, no unnecessary jargon."
+        },
+        "3": {
+          "title": "Global perspective",
+          "description": "Markets don't stop at borders, and neither does our coverage of economies, currencies, and policy."
+        },
+        "4": {
+          "title": "Reader first",
+          "description": "We measure success by how well-informed our readers feel, not by pageviews or hype cycles."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "480K+",
+        "label": "Monthly readers"
+      },
+      "1": {
+        "value": "3,200+",
+        "label": "Articles published"
+      },
+      "2": {
+        "value": "24",
+        "label": "Staff journalists and analysts"
+      },
+      "3": {
+        "value": "4.8/5",
+        "label": "Reader trust rating"
+      }
+    },
+    "cta": {
+      "title": "Stay ahead of the market",
+      "subtitle": "Join our newsletter for weekly insights delivered straight to your inbox.",
+      "button": "Subscribe free"
+    }
+  }
+}

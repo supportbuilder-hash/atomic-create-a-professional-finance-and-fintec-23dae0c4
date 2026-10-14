@@ -1,0 +1,59 @@
+{
+  "brand": {
+    "name": "The Ledger",
+    "tagline": "Clear-eyed insights on markets, money, and the future of finance",
+    "logoUrl": null
+  },
+  "navLinks": [
+    {
+      "key": "home",
+      "href": "/"
+    },
+    {
+      "key": "blog",
+      "href": "/blog"
+    },
+    {
+      "key": "about",
+      "href": "/about"
+    },
+    {
+      "key": "category",
+      "href": "/category"
+    },
+    {
+      "key": "authors",
+      "href": "/author"
+    }
+  ],
+  "primaryCta": {
+    "key": "primary",
+    "href": "/article"
+  },
+  "footerColumns": [
+    {
+      "key": "sections",
+      "links": [
+        { "key": "markets", "href": "/category" },
+        { "key": "personalFinance", "href": "/category" },
+        { "key": "fintech", "href": "/category" },
+        { "key": "crypto", "href": "/category" },
+        { "key": "economy", "href": "/category" }
+      ]
+    },
+    {
+      "key": "company",
+      "links": [
+        { "key": "about", "href": "/about" },
+        { "key": "authors", "href": "/author" },
+        { "key": "blog", "href": "/blog" }
+      ]
+    }
+  ],
+  "socialLinks": [],
+  "motion": {
+    "intensity": 3
+  },
+  "navbarVariant": "split",
+  "footerVariant": "columns"
+}

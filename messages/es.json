@@ -1,0 +1,546 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "blog": "Blog",
+    "about": "Acerca de",
+    "category": "Categoría",
+    "authors": "Autores"
+  },
+  "cta": {
+    "primary": "Suscribirse"
+  },
+  "footer": {
+    "tagline": "Análisis claros sobre mercados, dinero y el futuro de las finanzas",
+    "rights": "Todos los derechos reservados.",
+    "columns": {
+      "sections": "Secciones",
+      "company": "Empresa"
+    },
+    "links": {
+      "markets": "Mercados",
+      "personalFinance": "Finanzas Personales",
+      "fintech": "Fintech",
+      "crypto": "Criptomonedas",
+      "economy": "Economía",
+      "about": "Acerca de",
+      "authors": "Autores",
+      "blog": "Blog"
+    }
+  },
+  "authorPage": {
+    "hero": {
+      "eyebrow": "Editora Senior de Mercados",
+      "name": "Elena Marsh",
+      "role": "Editora Senior de Mercados, The Ledger",
+      "bio": "Elena cubre política monetaria, mercados de valores y las fuerzas macroeconómicas que moldean las finanzas de los hogares. Antes de unirse a The Ledger, pasó nueve años reportando sobre bancos centrales y tres años como analista de renta fija, trabajo que sigue influyendo en cómo interpreta las decisiones de tasas.",
+      "articleCount": "{count} artículos publicados",
+      "twitterLabel": "Elena Marsh en Twitter",
+      "linkedinLabel": "Elena Marsh en LinkedIn",
+      "emailLabel": "Enviar correo a Elena Marsh"
+    },
+    "articles": {
+      "title": "Artículos de Elena Marsh",
+      "subtitle": "Reportajes y análisis sobre mercados, política y economía, en lenguaje claro.",
+      "sortLabel": "Ordenar por",
+      "sortNewest": "Más recientes primero",
+      "sortOldest": "Más antiguos primero",
+      "sortAZ": "Título A-Z"
+    },
+    "newsletter": {
+      "eyebrow": "Mantente informado",
+      "title": "Recibe el análisis de Elena en tu bandeja de entrada",
+      "subtitle": "Una nota semanal concisa sobre mercados y política monetaria, escrita para lectores que buscan sustancia sobre ruido.",
+      "nameLabel": "Tu nombre",
+      "emailLabel": "Correo electrónico",
+      "submitLabel": "Suscribirse",
+      "successMessage": "Te has suscrito. Revisa tu bandeja de entrada para un correo de confirmación.",
+      "privacyNote": "Sin spam. Desuscribirse en cualquier momento. Un correo por semana."
+    }
+  },
+  "category": {
+    "eyebrow": "Explorar por tema",
+    "tabsLabel": "Categorías de artículos",
+    "articleCount": "{count} artículos en esta categoría",
+    "byLabel": "Por",
+    "readMore": "Leer artículo",
+    "empty": "No hay artículos publicados en esta categoría aún. Vuelve pronto.",
+    "paginationPrev": "Página anterior",
+    "paginationNext": "Página siguiente",
+    "paginationPageLabel": "Página {page} de {total}",
+    "list": [
+      {
+        "name": "Markets",
+        "description": "Equity, bond and commodity market moves, explained for investors who want context, not noise."
+      },
+      {
+        "name": "Personal Finance",
+        "description": "Practical guidance on saving, spending, borrowing and investing for your own financial life."
+      },
+      {
+        "name": "Fintech",
+        "description": "The technology, platforms and business models reshaping how money moves and who moves it."
+      },
+      {
+        "name": "Crypto",
+        "description": "Digital assets, blockchain infrastructure and the regulation shaping where they go next."
+      },
+      {
+        "name": "Economy",
+        "description": "Macro trends, central bank policy and the data releases that move every other market."
+      }
+    ],
+    "articles": [
+      {
+        "title": "The Fed's Next Move: Reading Between the Lines",
+        "excerpt": "Policymakers are sending mixed signals on rate cuts. Here is what the latest minutes actually tell investors about the path ahead.",
+        "author": "Elena Marsh",
+        "authorRole": "Markets Editor",
+        "date": "May 2, 2024",
+        "category": "Markets",
+        "readTime": "6 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/313ce84372a74c2789f85c2ea4015af1.jpg"
+      },
+      {
+        "title": "Why Bond Yields Are Quietly Reshaping Portfolios",
+        "excerpt": "As yields hold near multi-year highs, fixed income is pulling capital away from equities in ways that deserve a closer look.",
+        "author": "Daniel Osei",
+        "authorRole": "Senior Markets Writer",
+        "date": "April 26, 2024",
+        "category": "Markets",
+        "readTime": "7 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/293b2e449f0e4f64920239e2b25ad341.jpg"
+      },
+      {
+        "title": "Building an Emergency Fund That Actually Works",
+        "excerpt": "A step-by-step framework for sizing, automating and protecting your cash reserve so it is there when you need it.",
+        "author": "Priya Chandran",
+        "authorRole": "Personal Finance Columnist",
+        "date": "April 22, 2024",
+        "category": "Personal Finance",
+        "readTime": "5 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/a676ee83222247e0bc5a2a989deb4423.jpg"
+      },
+      {
+        "title": "The Real Cost of Carrying a Credit Card Balance",
+        "excerpt": "Minimum payments feel manageable until the math catches up. We break down what revolving debt truly costs over time.",
+        "author": "Priya Chandran",
+        "authorRole": "Personal Finance Columnist",
+        "date": "April 15, 2024",
+        "category": "Personal Finance",
+        "readTime": "4 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/e8d12245254344039e2924c5b5af5926.jpg"
+      },
+      {
+        "title": "How Embedded Finance Is Rewiring Retail Checkout",
+        "excerpt": "Buy-now-pay-later and in-app lending are becoming invisible infrastructure. Retailers that ignore it are already behind.",
+        "author": "Marcus Lindqvist",
+        "authorRole": "Fintech Correspondent",
+        "date": "April 10, 2024",
+        "category": "Fintech",
+        "readTime": "6 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/64cac83042bf4d44a6fd19dfbe157133.jpg"
+      },
+      {
+        "title": "Banking-as-a-Service: The Infrastructure Behind the Apps",
+        "excerpt": "Most consumer fintech apps don't hold a banking license. Here is who actually does the regulated work behind the scenes.",
+        "author": "Marcus Lindqvist",
+        "authorRole": "Fintech Correspondent",
+        "date": "April 3, 2024",
+        "category": "Fintech",
+        "readTime": "8 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/99c38df477af4cfcb91ab3cd140cc429.jpg"
+      },
+      {
+        "title": "Stablecoins Move From Niche to Necessary",
+        "excerpt": "Settlement volumes now rival major card networks. Regulators are finally catching up to an asset class that won't wait.",
+        "author": "Sofia Reyes",
+        "authorRole": "Crypto Markets Reporter",
+        "date": "March 28, 2024",
+        "category": "Crypto",
+        "readTime": "5 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/a21f6dc19f8347e98a79a2e150ababd9.jpg"
+      },
+      {
+        "title": "What Spot ETF Flows Tell Us About Institutional Appetite",
+        "excerpt": "Weekly inflow data is becoming one of the clearest signals of how traditional finance is actually positioning in digital assets.",
+        "author": "Sofia Reyes",
+        "authorRole": "Crypto Markets Reporter",
+        "date": "March 20, 2024",
+        "category": "Crypto",
+        "readTime": "6 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b85fc7687c594539a494bd8f44d49d87.jpg"
+      },
+      {
+        "title": "Inflation Cools, But Consumers Aren't Celebrating Yet",
+        "excerpt": "Headline numbers are easing, yet grocery bills and rent tell a stickier story. We unpack the gap between data and daily life.",
+        "author": "Elena Marsh",
+        "authorRole": "Markets Editor",
+        "date": "March 12, 2024",
+        "category": "Economy",
+        "readTime": "7 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/23fc1061d8d241cf94985f2614b2e64b.jpg"
+      }
+    ]
+  },
+  "article": {
+    "backLink": "Volver a todos los artículos",
+    "breadcrumbHome": "The Ledger",
+    "category": "Fintech",
+    "title": "Dentro del Reajuste Silencioso de los Pagos Transfronterizos",
+    "deck": "Una nueva generación de sistemas de liquidación está reemplazando la banca corresponsal de décadas, reduciendo lo que solía tomar días a segundos. Aquí está lo que realmente está cambiando y quién se beneficiará.",
+    "authorName": "Maya Ellison",
+    "authorRole": "Corresponsal Senior de Fintech",
+    "date": "18 de marzo de 2024",
+    "readTime": "8 min de lectura",
+    "lead": "Durante la mayor parte de los últimos cincuenta años, transferir dinero a través de una frontera significaba enrutarlo a través de una cadena de bancos corresponsales, cada uno tomando una comisión y un día o dos, con poca visibilidad sobre dónde se encontraba realmente un pago en cualquier momento. Ese modelo finalmente se está desmantelando, no por un único avance sino por una acumulación lenta de infraestructura que la mayoría de los consumidores nunca verán.",
+    "body1": "Los sistemas de pago en tiempo real ahora vinculan más de sesenta países, y una ola de intermediarios fintech autorizados han construido capas de cumplimiento y liquidez sobre ellos. El resultado es una experiencia de liquidación que cada vez se parece más a una transferencia bancaria doméstica: los fondos se mueven en minutos, las comisiones se cotizan por adelantado, y tanto el remitente como el destinatario pueden rastrear el estado de principio a fin.",
+    "sectionOneHeading": "Por qué el sistema antiguo se mantuvo durante tanto tiempo",
+    "body2": "La banca corresponsal sobrevivió durante tanto tiempo porque la confianza y la liquidez son difíciles de reemplazar a escala. Los bancos mantenían cuentas nostro y vostro con socios en todo el mundo específicamente para no necesitar un sistema más rápido; el costo de mantener ese capital simplemente se trataba como el precio de hacer negocios. Lo que cambió es que los reguladores comenzaron a exigir más transparencia en las comisiones y los tiempos, y esa presión hizo que las ineficiencias fueran imposibles de ignorar.",
+    "pullQuote": "Los bancos que ganen la próxima década de pagos transfronterizos no serán los que tengan las redes corresponsales más grandes. Serán los que reconstruyeron sus sistemas antes de que la regulación forzara el problema.",
+    "sectionTwoHeading": "Quién se beneficia realmente primero",
+    "body3": "Los exportadores pequeños y medianos están viendo las ganancias más claras. Un fabricante que paga a proveedores en tres monedas solía absorber flotación impredecible y diferenciales opacos; ahora ese mismo negocio puede cotizar un costo de entrega con confianza porque el tiempo de liquidación y las comisiones están fijos de antemano. Las plataformas de freelancers y gig que pagan a contratistas internacionalmente han visto mejoras similares, a menudo reduciendo el tiempo de pago de una semana a el mismo día.",
+    "body4": "El caso más difícil son las remesas a mercados con infraestructura bancaria débil, donde el último tramo, obtener fondos de una billetera digital en efectivo, sigue siendo lento y costoso independientemente de qué tan rápido se mueva el sistema en sí. Cerrar esa brecha es ahora el enfoque principal de la industria, y es donde se concentra la próxima ronda de inversión en fintech.",
+    "takeawaysHeading": "Puntos clave",
+    "aboutAuthorLabel": "Sobre el autor",
+    "authorBio": "Maya cubre infraestructura de pagos, tecnología bancaria y los cambios regulatorios que están remodelando las finanzas globales. Anteriormente reportó sobre política monetaria durante una década antes de pasar a fintech.",
+    "viewProfile": "Ver perfil completo",
+    "relatedHeading": "Lectura relacionada",
+    "relatedCta": "Explorar todos los artículos",
+    "newsletterTitle": "Recibe The Ledger en tu bandeja de entrada",
+    "newsletterSubtitle": "Un resumen conciso cada semana sobre mercados, fintech y las fuerzas económicas que moldean ambos. Sin ruido, sin spam.",
+    "newsletterNameLabel": "Nombre",
+    "newsletterNamePlaceholder": "Jordan Price",
+    "newsletterEmailLabel": "Correo electrónico",
+    "newsletterEmailPlaceholder": "you@example.com",
+    "newsletterSubmit": "Suscribirse",
+    "newsletterDisclaimer": "Gratuito, semanal, cancela en cualquier momento.",
+    "newsletterSuccessTitle": "Estás suscrito",
+    "newsletterSuccessMessage": "Espera tu primer resumen este viernes por la mañana.",
+    "takeaways": [
+      "Real-time settlement rails now connect more than sixty countries, replacing multi-day correspondent banking chains for a growing share of transactions.",
+      "Regulatory pressure for fee and timing transparency, not a single new technology, was the main force that broke open the old system.",
+      "Small exporters and gig-economy payouts are seeing the fastest, most measurable improvements in cost and settlement speed.",
+      "The last-mile problem in cash-based remittance markets remains the hardest piece to solve and the focus of current fintech investment."
+    ],
+    "related": [
+      {
+        "category": "Markets",
+        "title": "What Rate Cuts Actually Do to Your Portfolio",
+        "excerpt": "A plain-language look at how falling rates ripple through bonds, equities, and the funds most retail investors already hold.",
+        "readTime": "6 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/f4b68f6e02c241dfbf9125c9ab214da4.jpg",
+        "alt": "Financial analysts reviewing stock market data on multiple trading screens"
+      },
+      {
+        "category": "Crypto",
+        "title": "Stablecoins Are Becoming Payment Rails, Not Just Trading Tools",
+        "excerpt": "Settlement volume on dollar-pegged stablecoins has quietly overtaken several legacy wire networks. Here's why that matters.",
+        "readTime": "7 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/d28a9d622bc04690858af41144acfed9.jpg",
+        "alt": "Digital cryptocurrency coins displayed over a financial trading dashboard"
+      },
+      {
+        "category": "Personal Finance",
+        "title": "The Real Cost of Holding Cash in a High-Rate Environment",
+        "excerpt": "Idle cash isn't free. A look at what households are giving up by staying out of short-term instruments.",
+        "readTime": "5 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/4eb19c90a2054c4b9a020512abc1e086.jpg",
+        "alt": "Person reviewing personal finances with a laptop and calculator"
+      },
+      {
+        "category": "Economy",
+        "title": "Supply Chains Are Being Rebuilt Around Payment Speed",
+        "excerpt": "Faster settlement is changing how manufacturers choose suppliers and structure trade financing agreements.",
+        "readTime": "6 min read",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/045a956cb1b74aabb4956f46a77418cd.jpg",
+        "alt": "Container ship being loaded at a busy shipping port"
+      }
+    ]
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Nuestra Noticia Principal Hoy",
+      "category": "Fintech",
+      "title": "Dentro del Reajuste Silencioso de los Pagos Transfronterizos",
+      "subtitle": "Una nueva generación de sistemas de liquidación está reemplazando la banca corresponsal de décadas, reduciendo lo que solía tomar días a segundos. Aquí está lo que realmente está cambiando y quién se beneficiará.",
+      "authorName": "Maya Ellison",
+      "authorRole": "Corresponsal Senior de Fintech",
+      "date": "18 de marzo de 2024",
+      "readTime": "8 min de lectura",
+      "cta": "Leer la Historia Completa",
+      "secondaryCta": "Explorar Todos los Temas"
+    },
+    "categoryNav": {
+      "title": "Explorar por sección"
+    },
+    "latest": {
+      "eyebrow": "Recién Salido de la Redacción",
+      "title": "Las historias imprescindibles de esta semana",
+      "subtitle": "Reportajes y análisis seleccionados de nuestra redacción, actualizados cada mañana entre semana.",
+      "cta": "Ver Todos los Artículos"
+    },
+    "editorsPicks": {
+      "title": "Selección de Editores",
+      "subtitle": "Historias que nuestros editores creen que merecen una lectura más atenta.",
+      "items": [
+        {
+          "category": "Markets",
+          "title": "Why Bond Yields Are Quietly Reshaping Portfolios",
+          "excerpt": "As yields hold near multi-year highs, fixed income is pulling capital away from equities in ways that deserve a closer look.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/293b2e449f0e4f64920239e2b25ad341.jpg"
+        },
+        {
+          "category": "Crypto",
+          "title": "Stablecoins Move From Niche to Necessary",
+          "excerpt": "Settlement volumes now rival major card networks. Regulators are finally catching up to an asset class that will not wait.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/a21f6dc19f8347e98a79a2e150ababd9.jpg"
+        },
+        {
+          "category": "Fintech",
+          "title": "Banking-as-a-Service: The Infrastructure Behind the Apps",
+          "excerpt": "Most consumer fintech apps do not hold a banking license. Here is who actually does the regulated work behind the scenes.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/99c38df477af4cfcb91ab3cd140cc429.jpg"
+        }
+      ]
+    },
+    "mostRead": {
+      "title": "Más Leído Esta Semana",
+      "subtitle": "Lo que los lectores no dejan de compartir.",
+      "items": [
+        {
+          "title": "The Fed's Next Move: Reading Between the Lines",
+          "category": "Markets",
+          "author": "Elena Marsh",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/313ce84372a74c2789f85c2ea4015af1.jpg"
+        },
+        {
+          "title": "Building an Emergency Fund That Actually Works",
+          "category": "Personal Finance",
+          "author": "Priya Chandran",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/a676ee83222247e0bc5a2a989deb4423.jpg"
+        },
+        {
+          "title": "How Embedded Finance Is Rewiring Retail Checkout",
+          "category": "Fintech",
+          "author": "Marcus Lindqvist",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/64cac83042bf4d44a6fd19dfbe157133.jpg"
+        },
+        {
+          "title": "What Spot ETF Flows Tell Us About Institutional Appetite",
+          "category": "Crypto",
+          "author": "Sofia Reyes",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b85fc7687c594539a494bd8f44d49d87.jpg"
+        },
+        {
+          "title": "Inflation Cools, But Consumers Are Not Celebrating Yet",
+          "category": "Economy",
+          "author": "Elena Marsh",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/23fc1061d8d241cf94985f2614b2e64b.jpg"
+        }
+      ]
+    },
+    "topics": {
+      "eyebrow": "Áreas de Cobertura",
+      "title": "Explora The Ledger por tema",
+      "subtitle": "Cinco secciones, una redacción — sigue las historias que más importan para tu cartera y tu salario.",
+      "items": {
+        "0": {
+          "title": "Mercados",
+          "description": "Movimientos diarios, reacciones de ganancias y las fuerzas macro que impulsan acciones, bonos y materias primas."
+        },
+        "1": {
+          "title": "Finanzas Personales",
+          "description": "Orientación práctica sobre ahorros, inversiones, impuestos y construcción de riqueza a largo plazo."
+        },
+        "2": {
+          "title": "Fintech",
+          "description": "Las startups, plataformas y tecnologías que están redefiniendo cómo el mundo mueve dinero."
+        },
+        "3": {
+          "title": "Criptomonedas",
+          "description": "Reportajes imparciales sobre activos digitales, infraestructura blockchain y regulación."
+        },
+        "4": {
+          "title": "Economía",
+          "description": "Inflación, empleo, política de bancos centrales y los datos que moldean la visión general."
+        }
+      }
+    },
+    "cta": {
+      "title": "Decisiones de dinero más inteligentes comienzan aquí",
+      "subtitle": "Únete a más de 120,000 lectores que reciben el resumen matutino de The Ledger — análisis agudo entregado directamente en tu bandeja de entrada, cada día entre semana.",
+      "button": "Suscribirse Gratis"
+    }
+  },
+  "blog": {
+    "hero": {
+      "eyebrow": "Mercados y Dinero",
+      "title": "The Ledger",
+      "subtitle": "Análisis imparcial sobre mercados, finanzas personales, fintech y la economía para lectores que buscan sustancia sobre ruido."
+    },
+    "posts": {
+      "0": {
+        "title": "El próximo movimiento de la Fed: Por qué los mercados apuestan por un recorte en septiembre",
+        "excerpt": "Los operadores de bonos han revaluado silenciosamente las probabilidades de un recorte de tasas. Esto es lo que muestran realmente los datos y por qué el consenso podría estar equivocado.",
+        "category": "Mercados",
+        "date": "3 de marzo de 2026",
+        "author": "Elena Marsh",
+        "readTime": "7 min de lectura",
+        "body": {
+          "0": "Los mercados de futuros ahora cotizan una probabilidad del 82% de un recorte de un cuarto de punto en la próxima reunión de la Reserva Federal, muy por encima del 45% de hace un mes. El cambio llegó después de un informe de empleos más débil de lo esperado y comentarios de tono dovish de presidentes de bancos regionales de la Fed.",
+          "1": "Pero un análisis más detallado de los datos subyacentes complica la narrativa simple. La inflación de servicios básicos, excluyendo vivienda, ha aumentado en los últimos dos meses, impulsada principalmente por costos de seguros y precios de servicios médicos que tienden a ser persistentes.",
+          "2": "Los estrategas de Wall Street permanecen divididos. Los economistas de Goldman Sachs argumentan que el enfriamiento del mercado laboral es ahora lo suficientemente amplio para justificar una flexibilización, señalando el crecimiento salarial más lento y las reclamaciones continuas en aumento. Otros, incluyendo varias voces dentro de la Fed, se preocupan de que un recorte prematuro podría reavivar las expectativas de inflación que tardaron dos años en controlarse.",
+          "3": "La historia ofrece lecciones mixtas aquí. En ciclos anteriores, la flexibilización prematura ha obligado a veces a los bancos centrales a reversiones dolorosas. La era de estanflación de los años 70 sigue siendo la advertencia más frecuentemente invocada por los halcones de inflación en el comité.",
+          "4": "Para los inversores, la conclusión práctica es menos sobre predecir la fecha exacta de la reunión y más sobre posicionarse para un período prolongado de incertidumbre de tasas. El riesgo de duración en carteras de bonos merece un nuevo escrutinio independientemente de cómo se resuelva la decisión de septiembre."
+        }
+      },
+      "1": {
+        "title": "Los fondos indexados siguen superando a la mayoría de gestores activos, confirma nuevo estudio",
+        "excerpt": "Una revisión de una década del desempeño de fondos entrega un veredicto familiar pero importante para los inversores cotidianos.",
+        "category": "Finanzas Personales",
+        "date": "1 de marzo de 2026",
+        "author": "Daniel Osei",
+        "readTime": "5 min de lectura",
+        "body": {
+          "0": "Un nuevo análisis que cubre más de 3,000 fondos de renta variable estadounidenses gestionados activamente durante los últimos diez años encontró que aproximadamente el 86% tuvo un desempeño inferior a su índice de referencia después de comisiones. La cifra es casi idéntica a estudios de hace una década, sugiriendo que el desafío estructural que enfrenta la gestión activa no se ha aliviado a pesar de los avances en datos y tecnología.",
+          "1": "El culpable principal sigue siendo el costo. Los fondos gestionados activamente cobran, en promedio, casi cinco veces el índice de gastos de fondos indexados comparables. En un horizonte de inversión de 30 años, esa brecha de comisiones por sí sola puede erosionar el valor final de una cartera en más de una cuarta parte.",
+          "2": "El sesgo de supervivencia también distorsiona cómo se ve la buena gestión activa en retrospectiva. Muchos fondos con bajo desempeño se fusionan silenciosamente o se cierran, dejando solo los desempeños más fuertes visibles en bases de datos históricas, lo que favorece el aparente historial de la categoría.",
+          "3": "Nada de esto significa que la gestión activa sea inútil en todas partes. En rincones menos eficientes del mercado, como acciones de pequeña capitalización internacionales o deuda en dificultades, gestores hábiles han demostrado una capacidad más consistente para agregar valor neto de comisiones.",
+          "4": "Para la mayoría de inversores minoristas que construyen una cartera de jubilación, sin embargo, la investigación refuerza una conclusión simple: un fondo indexado de bajo costo y ampliamente diversificado sigue siendo una de las herramientas más confiables disponibles, no porque sea emocionante, sino porque es difícil de superar."
+        }
+      },
+      "2": {
+        "title": "Los bancos están reconstruyendo silenciosamente sus pilas tecnológicas alrededor de agentes de IA",
+        "excerpt": "Desde detección de fraude hasta servicio al cliente, los agentes de IA autónomos se están moviendo de proyectos piloto a operaciones bancarias diarias.",
+        "category": "Fintech",
+        "date": "27 de febrero de 2026",
+        "author": "Priya Chandran",
+        "readTime": "6 min de lectura",
+        "body": {
+          "0": "Durante los últimos dieciocho meses, varios bancos minoristas importantes han trasladado agentes de IA de pilotos experimentales a infraestructura central, según entrevistas con ejecutivos de tecnología en toda la industria. Los agentes ahora manejan tareas que van desde marcar transacciones sospechosas en tiempo real hasta resolver disputas rutinarias de clientes sin intervención humana.",
+          "1": "La economía es un impulsor importante. Un banco regional reportó reducir el tiempo promedio de resolución del centro de llamadas en un 40% después de desplegar un agente de IA entrenado específicamente en sus flujos de trabajo de resolución de disputas, liberando personal humano para manejar escaladas más complejas.",
+          "2": "Los reguladores están observando de cerca. La Oficina de Protección Financiera del Consumidor ha señalado que escrutinizará cómo los bancos documentan y auditan decisiones tomadas por sistemas autónomos, particularmente donde esas decisiones afectan el acceso al crédito o determinaciones de fraude que los clientes tienen derecho a impugnar.",
+          "3": "Los desafiantes fintech más pequeños también han entrado agresivamente en este espacio, construyendo plataformas basadas en agentes que licencian a bancos comunitarios e instituciones de crédito que carecen de recursos para construir sistemas propios internamente.",
+          "4": "El riesgo, advierten los expertos de la industria, es avanzar demasiado rápido sin protecciones adecuadas. Un agente mal calibrado que toma determinaciones de fraude a escala puede causar daño financiero real antes de que alguien note el patrón, haciendo que la supervisión humana robusta siga siendo esencial incluso cuando la automatización se expande."
+        }
+      },
+      "3": {
+        "title": "Los ETF de Bitcoin acaban de cruzar un hito que la mayoría de analistas no esperaba tan pronto",
+        "excerpt": "Los activos bajo gestión combinados en ETF de Bitcoin al contado han superado un umbral clave, remodelando cómo las instituciones acceden a criptomonedas.",
+        "category": "Cripto",
+        "date": "24 de febrero de 2026",
+        "author": "Marcus Webb",
+        "readTime": "5 min de lectura",
+        "body": {
+          "0": "Los ETF de Bitcoin al contado listados en Estados Unidos han superado colectivamente $150 mil millones en activos bajo gestión, una cifra que la mayoría de analistas proyectaban no se alcanzaría hasta 2027 como muy pronto. El ritmo de adopción institucional ha superado incluso los pronósticos alcistas hechos en el lanzamiento de los productos.",
+          "1": "Los fondos de pensiones y dotaciones, históricamente cautelosos sobre la exposición directa a criptomonedas, han sido entre las categorías de compradores de más rápido crecimiento, a menudo asignando a través de ETFs específicamente porque la estructura evita los dolores de cabeza de custodia y cumplimiento asociados con mantener el activo directamente.",
+          "2": "Los volúmenes de negociación cuentan una historia similar. Varios de los ETFs de Bitcoin más grandes ahora se encuentran entre los fondos más activamente negociados en las principales bolsas en cualquier día dado, rivalizando con volúmenes vistos en productos de índices de renta variable establecidos desde hace mucho tiempo.",
+          "3": "No todos ven el hito como inequívocamente positivo. Algunos expertos en estructura de mercado advierten que la propiedad concentrada de ETFs podría amplificar la volatilidad durante caídas pronunciadas, ya que la presión de reembolso obliga a los gestores de fondos a vender Bitcoin subyacente en mercados ya estresados.",
+          "4": "Aun así, la tendencia más amplia parece clara: la exposición a criptomonedas se está absorbiendo en la construcción de carteras convencionales mucho más rápido de lo que anticipaban los escépticos, un cambio con implicaciones para todo, desde la planificación de jubilación hasta la política regulatoria en adelante."
+        }
+      },
+      "4": {
+        "title": "Por qué los precios de los alimentos no han bajado aunque la inflación se enfríe",
+        "excerpt": "Los números de inflación general se ven tranquilizadores, pero los presupuestos de los hogares cuentan una historia más complicada en la caja.",
+        "category": "Economía",
+        "date": "20 de febrero de 2026",
+        "author": "Elena Marsh",
+        "readTime": "6 min de lectura",
+        "body": {
+          "0": "La inflación anual se ha enfriado al nivel más bajo en tres años, pero las facturas de alimentos para el hogar promedio siguen siendo obstinadamente elevadas en comparación con las líneas de base previas a la pandemia. La desconexión se ha convertido en un tema recurrente en encuestas de sentimiento del consumidor, donde el costo de vida percibido a menudo diverge bruscamente de las estadísticas oficiales.",
+          "1": "Parte de la explicación radica en cómo funcionan las métricas de inflación. Una tasa de inflación decreciente significa que los precios suben más lentamente, no que caigan de nuevo a donde comenzaron. Los precios de los alimentos que saltaron un 25% durante el auge inflacionario se han mantenido principalmente en esa meseta elevada en lugar de revertirse.",
+          "2": "La dinámica de la cadena de suministro específica de la producción de alimentos añade otra capa. Los precios de huevos y productos lácteos en particular han sido volátiles debido a brotes recurrentes de gripe aviar que periódicamente aprietan la oferta, independientemente de las condiciones monetarias más amplias.",
+          "3": "La consolidación minorista también puede jugar un papel. Los economistas señalan la reducción de la competencia en ciertos mercados de abarrotes regionales como un factor que ha permitido que algunos aumentos de precios se mantengan incluso cuando los costos de entrada para los minoristas se han aliviado.",
+          "4": "Para la elaboración de presupuestos del hogar, la implicación práctica es que el alivio en la caja será gradual en lugar de repentino, reforzando por qué muchos consumidores sienten que la economía está en su contra incluso cuando los indicadores macro mejoran."
+        }
+      },
+      "5": {
+        "title": "El costo oculto de 'Compra ahora, paga después' se está mostrando en las puntuaciones de crédito",
+        "excerpt": "A medida que el uso de BNPL se dispara, nuevas reglas de informes están comenzando a revelar cómo el hábito afecta la salud financiera más amplia de los prestatarios.",
+        "category": "Finanzas Personales",
+        "date": "17 de febrero de 2026",
+        "author": "Daniel Osei",
+        "readTime": "4 min de lectura",
+        "body": {
+          "0": "Los servicios de compra ahora, paga después han crecido de una novedad de pago a un producto de crédito convencional, con el uso entre adultos menores de 40 años ahora superando el uso de tarjetas de crédito tradicionales para compras discrecionales, según encuestas recientes de finanzas del consumidor.",
+          "1": "El atractivo es directo: sin interés si se paga a tiempo, aprobación instantánea y una experiencia de usuario integrada directamente en el flujo de pago de los principales minoristas. Pero la falta de interés no ha significado la falta de riesgo.",
+          "2": "Los nuevos datos de las agencias de crédito, que solo recientemente han comenzado a incorporar la actividad de BNPL en archivos de crédito estándar, muestran un subconjunto significativo de usuarios que manejan cuatro o más préstamos BNPL concurrentes, un patrón asociado con tasas más altas de pagos perdidos en todas sus obligaciones.",
+          "3": "Los defensores de los consumidores argumentan que la naturaleza fragmentada del producto facilita el sobreendeudamiento. Debido a que los proveedores individuales no siempre ven las obligaciones de un prestatario con competidores, las decisiones de aprobación pueden perder señales de alerta que serían obvias en una relación crediticia tradicional.",
+          "4": "Los consejeros financieros ahora recomiendan tratar los compromisos de BNPL con la misma disciplina presupuestaria que cualquier línea de crédito, rastreando las obligaciones totales pendientes entre proveedores en lugar de evaluar cada compra de forma aislada."
+        }
+      }
+    },
+    "readMore": "Continuar leyendo"
+  },
+  "post": {
+    "back": "Volver a todos los artículos",
+    "by": "Por",
+    "related": "Lectura relacionada",
+    "notFound": "No pudimos encontrar este artículo. Es posible que se haya movido, retirado o el enlace sea incorrecto."
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Acerca de The Ledger",
+      "title": "Claridad para un mundo financiero complejo",
+      "subtitle": "Traducimos mercados, dinero y fintech en información que realmente puedes usar."
+    },
+    "story": {
+      "title": "Nuestra historia",
+      "paragraphs": {
+        "0": "The Ledger comenzó como un boletín de fin de semana escrito por un pequeño grupo de periodistas financieros y analistas anteriores que estaban cansados de elegir entre informes de investigación densos y titulares sensacionalistas. Queríamos una tercera opción: rigurosa, legible y honesta sobre lo que no sabemos.",
+        "1": "Desde entonces, The Ledger se ha convertido en una publicación diaria que cubre mercados, finanzas personales, fintech, criptomonedas y la economía en general. Nuestra redacción combina reportajes sobre el terreno con análisis basado en datos, y cada pieza se revisa por precisión antes de llegar a tu bandeja de entrada.",
+        "2": "Hoy, cientos de miles de lectores confían en nosotros para entender llamadas de ganancias, decisiones de tasas de interés y la próxima ola de tecnología financiera, sin la jerga ni el ruido."
+      }
+    },
+    "values": {
+      "eyebrow": "Lo que nos guía",
+      "title": "Los principios detrás de cada historia",
+      "subtitle": "Estándares editoriales que nos comprometemos a mantener en cada artículo que publicamos.",
+      "items": {
+        "0": {
+          "title": "Precisión ante todo",
+          "description": "Cada cifra, cita y gráfico se verifica antes de la publicación, y se corrige de forma transparente si nos equivocamos."
+        },
+        "1": {
+          "title": "Independencia",
+          "description": "Nuestro reportaje nunca está influenciado por anunciantes, patrocinadores o las empresas que cubrimos."
+        },
+        "2": {
+          "title": "Lenguaje claro",
+          "description": "Explicamos conceptos financieros complejos como se los explicaríamos a un amigo inteligente, sin jerga innecesaria."
+        },
+        "3": {
+          "title": "Perspectiva global",
+          "description": "Los mercados no se detienen en las fronteras, y tampoco nuestra cobertura de economías, divisas y políticas."
+        },
+        "4": {
+          "title": "El lector primero",
+          "description": "Medimos el éxito por lo bien informados que se sienten nuestros lectores, no por vistas de página o ciclos de tendencias."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "480K+",
+        "label": "Lectores mensuales"
+      },
+      "1": {
+        "value": "3,200+",
+        "label": "Artículos publicados"
+      },
+      "2": {
+        "value": "24",
+        "label": "Periodistas y analistas del equipo"
+      },
+      "3": {
+        "value": "4.8/5",
+        "label": "Calificación de confianza de lectores"
+      }
+    },
+    "cta": {
+      "title": "Mantente adelante del mercado",
+      "subtitle": "Únete a nuestro boletín para recibir información semanal directamente en tu bandeja de entrada.",
+      "button": "Suscribirse gratis"
+    }
+  }
+}
